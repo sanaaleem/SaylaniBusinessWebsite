@@ -1,0 +1,16 @@
+.top{
+    background-color: rgb(103, 49, 107)!important;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+div .bord{
+    border: 1px solid black !important;
+}
+.TextColor{
+color: rgb(103, 49, 107) !important;
+}
+section div .h2{
+    color: rgb(103, 49, 107) !important;
+    } 
